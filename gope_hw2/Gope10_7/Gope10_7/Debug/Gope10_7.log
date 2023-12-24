@@ -1,0 +1,3 @@
+﻿  Chap10.cpp
+C:\Users\USER\source\c++\gope_hw2\Gope10_7\Gope10_7\Chap10.cpp(5,13): warning C4101: 'p2' :참조되지 않은 지역 변수입니다.
+  Gope10_7.vcxproj -> C:\Users\USER\source\c++\gope_hw2\Gope10_7\Debug\Gope10_7.exe

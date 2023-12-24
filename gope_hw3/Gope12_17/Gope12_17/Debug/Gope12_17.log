@@ -1,0 +1,3 @@
+﻿  Ch12.cpp
+C:\Users\USER\source\c++\gope_hw3\Gope12_17\Gope12_17\Ch12.cpp(11,40): error C2653: 'ios': 클래스 또는 네임스페이스 이름이 아닙니다.
+C:\Users\USER\source\c++\gope_hw3\Gope12_17\Gope12_17\Ch12.cpp(11,37): error C2065: 'app': 선언되지 않은 식별자입니다.

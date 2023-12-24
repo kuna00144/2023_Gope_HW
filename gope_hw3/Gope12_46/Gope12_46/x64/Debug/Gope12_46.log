@@ -1,0 +1,3 @@
+﻿  Ch12.cpp
+C:\Users\USER\source\c++\gope_hw3\Gope12_46\Gope12_46\Ch12.cpp(15,6): warning C4101: 'num' :참조되지 않은 지역 변수입니다.
+  Gope12_46.vcxproj -> C:\Users\USER\source\c++\gope_hw3\Gope12_46\x64\Debug\Gope12_46.exe
